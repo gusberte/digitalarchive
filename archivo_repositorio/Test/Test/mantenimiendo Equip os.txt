@@ -1,0 +1,24 @@
+
+Estado
+La información de las máquinas es organizada por cada usuario y en muchos casos nos encontramos con redundancia ya que se guardan varias veces la misma información o similar con diferente nombre (Versionado manual)
+
+Esto genera que se ocupe mucho espacio para casi la misma información.
+
+Se demora mucho tiempo en hacer los respaldos por esta razón y además ocupan mucho espacio, con lo que nos quedamos sin dispositivos de almacenamiento para hacerlo.
+
+
+
+Escenario de mantenimiento de equipo
+
+1) El encargado de TI hace mantenimiento períodico
+
+	PRO: los usuarios no se preocupan por el respaldo ya que hay una persona que resuelve esto esporádicamente según un calendario
+
+	CON: el respaldo depende de la capacidad de TI de dedicarle tiempo a cada respaldo y solo contamos con 1 persona para ello, como resultado el calendario determina que podemos hacer solo 2 respaldos por año.
+
+2) Los usuarios sean responsables del respaldo disponiendo de un disco duro por área
+
+	PRO: no necesitamos que el área de TI se haga responsable de los respaldos y los usuarios tienen la libertad de hacerlos con la periodisidad que crea necesaria. Menos afectación de tiempos para los usuarios ya que no se les quita el equipo. La responsabilidad es completamente de los usuarios.
+
+	CON: no es controlado y depende de la buena fe de los usuarios para hacer el respaldo. 
+
